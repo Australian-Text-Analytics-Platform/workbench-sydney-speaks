@@ -6,9 +6,11 @@ A workbench for corpus tools accessing the Sydney Speaks corpus. This workbench 
 
 ## Notebook topics
 
-* [LDACA-Sydney-Speaks notebook](/notebooks/ldaca-sydney-speaks.ipynbnotebook.ipynb) – Example notebook to run against LDACA
+* [LDACA-Sydney-Speaks notebook](https://github.com/Australian-Text-Analytics-Platform/workbench-sydney-speaks/tree/master/notebooks/ldaca-sydney-speaks.ipynb) – Example notebook to run against LDACA
   
   Remember to remove any notebook output to prevent pushing sensitive information. See https://github.com/Australian-Text-Analytics-Platform/ldaca-sydney-speaks for the original notebook and instructions on how to use it.
+  
+  MyBinder cannot be used to launch the notebook because this workbench is a private repository. 
 
 See the [GLAM Workbench for more details](https://glam-workbench.github.io/workbench-for-sydney-speaks-corpus/).
 

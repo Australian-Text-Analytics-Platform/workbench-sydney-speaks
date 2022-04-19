@@ -10,8 +10,6 @@ A workbench for corpus tools accessing the Sydney Speaks corpus. This workbench 
   
   Remember to remove any notebook output to prevent pushing sensitive information. See https://github.com/Australian-Text-Analytics-Platform/ldaca-sydney-speaks for the original notebook and instructions on how to use it.
   
-  MyBinder cannot be used to launch the notebook because this workbench is a private repository. 
-
 See the [GLAM Workbench for more details](https://glam-workbench.github.io/workbench-for-sydney-speaks-corpus/).
 
 <!-- START RUN INFO -->

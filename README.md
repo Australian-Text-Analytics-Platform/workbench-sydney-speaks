@@ -6,9 +6,19 @@ A workbench for corpus tools accessing the Sydney Speaks corpus. This workbench 
 
 ## Access and use of the Sydney Speaks corpus
 
-This workbench requires any user to already have access to the Sydney Speaks corpus with an appropriate API key established. Depending on the notebook, this key may need to be supplied in the [notebooks/vars.env](https://github.com/Australian-Text-Analytics-Platform/workbench-sydney-speaks/tree/master/notebooks/vars.env) file for the notebook to function.
+This workbench requires any user to already have access to the Sydney Speaks corpus. Remember to respect the contents and context of the corpus and follow any requirements of any license agreed to when obtaining the access.  
 
-Remember to respect the contents and context of the corpus and follow any requirements of any license agreed to when obtaining the access.  
+## Accessing Oni
+
+Some of the notebooks in this workshop currently run using a demo version of Oni deployed on Nectar, which requires a particular API token.
+
+To get an API token, go to https://oni-demo.text-commons.org, login via GitHub and generate an API TOKEN.
+
+Edit the *vars.env* file in your *notebooks/* folder with:
+
+    API_KEY=PASTE_YOUR_KEY_HERE
+
+Do not commit this to GitHub as it is your private token.
 
 ## Notebook topics
 

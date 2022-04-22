@@ -4,6 +4,12 @@ Current version: [v0.0.0](https://github.com/Australian-Text-Analytics-Platform/
 
 A workbench for corpus tools accessing the Sydney Speaks corpus. This workbench is based on the GLAM Workbench - https://github.com/GLAM-Workbench/glam-workbench-template .  For more information see the [Workbench for Sydney Speaks corpus](https://glam-workbench.net/workbench-for-sydney-speaks-corpus/) section of the GLAM Workbench.
 
+## Access and use of the Sydney Speaks corpus
+
+This workbench requires any user to already have access to the Sydney Speaks corpus with an appropriate API key established. Depending on the notebook, this key may need to be supplied in the [notebooks/vars.env](https://github.com/Australian-Text-Analytics-Platform/workbench-sydney-speaks/tree/master/notebooks/vars.env) file for the notebook to function.
+
+Remember to respect the contents and context of the corpus and follow any requirements of any license agreed to when obtaining the access.  
+
 ## Notebook topics
 
 * [LDACA-Sydney-Speaks notebook](https://github.com/Australian-Text-Analytics-Platform/workbench-sydney-speaks/tree/master/notebooks/ldaca-sydney-speaks.ipynb) – Example notebook to run against LDACA

@@ -22,7 +22,8 @@ Do not commit this to GitHub as it is your private token.
 
 ## Notebook topics
 
-* [LDACA-Sydney-Speaks notebook](https://github.com/Australian-Text-Analytics-Platform/workbench-sydney-speaks/tree/master/notebooks/ldaca-sydney-speaks.ipynb) – Example notebook to run against LDACA
+
+* [LDACA-Sydney-Speaks notebook](notebooks/ldaca-sydney-speaks.ipynb) – Example notebook to run against LDACA
   
   Remember to remove any notebook output to prevent pushing sensitive information. See https://github.com/Australian-Text-Analytics-Platform/ldaca-sydney-speaks for the original notebook and instructions on how to use it.
   

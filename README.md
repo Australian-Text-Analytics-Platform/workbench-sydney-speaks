@@ -19,7 +19,7 @@ Remember to respect the contents and context of the corpus and follow any requir
 See the [GLAM Workbench for more details](https://glam-workbench.github.io/workbench-for-sydney-speaks-corpus/).
 
 <!-- START RUN INFO -->
-
+<!-- Anything added below here will not be visible in the index.ipynb file -->
 
 ## Run these notebooks
 
@@ -27,7 +27,7 @@ There are a number of different ways to use these notebooks. Binder is quickest 
 
 ### Using Binder
 
-[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Australian-Text-Analytics-Platform/workbench-sydney-speaks/master/?urlpath=lab/tree/index.md)
+[![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Australian-Text-Analytics-Platform/workbench-sydney-speaks/master/?urlpath=lab/tree/index.ipynb)
 
 Click on the button above to launch the notebooks in this repository using the [Binder](https://mybinder.org/) service (it might take a little while to load). This is a free service, but note that sessions will close if you stop using the notebooks, and no data will be saved. Make sure you download any changed notebooks or harvested data that you want to save.
 

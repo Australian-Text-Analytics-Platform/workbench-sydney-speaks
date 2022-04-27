@@ -22,14 +22,14 @@ Do not commit this to GitHub as it is your private token.
 
 ## Notebook topics
 
-* [LDACA-Sydney-Speaks notebook](notebooks/ldaca-sydney-speaks.ipynb) [![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Australian-Text-Analytics-Platform/workbench-sydney-speaks/master/?urlpath=lab/tree/notebooks/ldaca-sydney-speaks.ipynb) – Example notebook to run against LDACA
+* [LDACA-Sydney-Speaks notebook](notebooks/ldaca-sydney-speaks.ipynb) [![Launch on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Australian-Text-Analytics-Platform/workbench-sydney-speaks/HEAD?labpath=notebooks%2Fldaca-sydney-speaks.ipynb) – Example notebook to run against LDACA
   
   Remember to remove any notebook output to prevent pushing sensitive information. See https://github.com/Australian-Text-Analytics-Platform/ldaca-sydney-speaks for the original notebook and instructions on how to use it.
   
 See the [GLAM Workbench for more details](https://glam-workbench.github.io/workbench-for-sydney-speaks-corpus/).
 
 <!-- START RUN INFO -->
-<!-- Anything added below here will not be visible in the index.ipynb file -->
+<!-- Anything in these sections will not be visible in the index.ipynb file -->
 
 ## Run these notebooks
 

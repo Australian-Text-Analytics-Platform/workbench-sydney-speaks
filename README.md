@@ -12,7 +12,7 @@ This workbench requires any user to already have access to the Sydney Speaks cor
 
 Some of the notebooks in this workshop currently run using a demo version of Oni deployed on Nectar, which requires a particular API token.
 
-To get an API token, go to https://oni-demo.text-commons.org, login via GitHub and generate an API TOKEN.
+To get an API token, go to https://data-dev.ldaca.edu.au, login via GitHub and generate an API TOKEN.
 
 Edit the *vars.env* file in your *notebooks/* folder with:
 

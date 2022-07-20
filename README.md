@@ -81,12 +81,12 @@ Assuming you have recent versions of Python and Git installed, the steps might b
 * Create a virtual environment, eg: `python -m venv workbench-sydney-speaks`
 * Open the new directory" `cd workbench-sydney-speaks`
 * Activate the environment `source bin/activate`
+* Install the necessary Python packages: `pip install -r requirements.in`
 * Clone the repository: `git clone https://github.com/Australian-Text-Analytics-Platform/workbench-sydney-speaks.git notebooks`
 * Open the new `notebooks` directory: `cd notebooks`
-* Install the necessary Python packages: `pip install -r requirements.txt`
 * Run Jupyter: `jupyter lab`
 
-See the [GLAM Workbench for [more details](https://glam-workbench.net/getting-started/#using-python-on-your-own-computer.
+See the GLAM Workbench for [more details](https://glam-workbench.net/getting-started/#using-python-on-your-own-computer).
 
 <!-- END RUN INFO -->
 
